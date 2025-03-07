@@ -13,7 +13,7 @@
 - This is only the beginning small steps in a much larger plan.
 
 
-**~ @Justadudeinspace (JADIS)**
+~ **@Justadudeinspace (JADIS)**
 
 
 ***Contact Info:***
