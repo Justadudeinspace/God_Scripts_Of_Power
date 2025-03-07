@@ -1,7 +1,5 @@
 # !/bin/bash
 
-# Created by Sujay Davalgi
-#
 # Reboots the selected device in recovery mode
 #
 # Usage: ./rebootRecovery.sh [<Device Serial>]
@@ -31,3 +29,4 @@ elif [[ "$( isRecoveryDevice $deviceSerial )" == "true" ]]; then
 else
 	echo " Device is not in 'adb' mode"
 fi
+[
