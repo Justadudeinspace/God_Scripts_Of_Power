@@ -1,3 +1,10 @@
+# !/bin/bash
+
+#
+# Description:
+# Script For Envoking & Disconnecting From The "adb-server"
+#
+
 [Unit]
 Description=Android Debug Server Daemon
 
