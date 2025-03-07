@@ -3,7 +3,7 @@
 ## aka "GSOP"
 
 * License: GPL v3.0
-- "GSOP Repo" is and always will remain free to the general public while also remaining open source.
+	- "GSOP Repo" is and always will remain free to the general public while also remaining open source.
 
 
 # Humble Beginnings
