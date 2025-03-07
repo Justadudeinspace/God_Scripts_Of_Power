@@ -2,7 +2,7 @@
 
 ## aka "GSOP"
 
-* **License: GPL v3.0**
+* **[License: GPL v3.0](https://github.com/Justadudeinspace/God_Scripts_Of_Power/blob/master/LICENSE.md)**
 	- "GSOP Repo" is and always will remain free to the general public while also remaining open source.
 
 
